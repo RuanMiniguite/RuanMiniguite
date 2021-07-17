@@ -7,7 +7,7 @@
 
 - :mortar_board: Estudo no Instituto Federal do Espírito Santo campus de Cachoeiro de Itapemirim.
 - :computer: Atualmente, estou me dedicando em aprender tecnologias Frontend e Backend.
-- :chart_with_upwards_trend: Objetivos Futuros: Continuar buscando solucionar problemas de forma criativa.
+- :chart_with_upwards_trend: Objetivos Futuros: Continuar buscando solucionar problemas de formas criativas.
 - :rocket: Curiosidade sobre mim: Gosto de estudar Astronomia.
 
 ---
