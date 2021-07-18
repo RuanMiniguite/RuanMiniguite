@@ -1,18 +1,17 @@
+# Olá!
 
-# Olá!! Eu sou o Ruan Miniguite
+## Eu sou o Ruan, estudante de Sistemas de Informação
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-## Sou estudante de Sistemas de Informação
-
-- :mortar_board: Estudo no Instituto Federal do Espírito Santo campus de Cachoeiro de Itapemirim.
+- :mortar_board: Estudo no Instituto Federal do Espírito Santo campus Cachoeiro de Itapemirim.
 - :computer: Atualmente, estou me dedicando em aprender tecnologias Frontend e Backend.
-- :chart_with_upwards_trend: Objetivos Futuros: Continuar buscando solucionar problemas de formas criativas.
-- :rocket: Curiosidade sobre mim: Gosto de estudar Astronomia.
+- :chart_with_upwards_trend: Objetivos Futuros: Continuar solucionar problemas de formas criativas.
+- :rocket: Curiosidade sobre mim: Gosto de acompanha lançamentos de foguetes.
 
 ---
 
-### Contato :envelope:
+### Contato :e-mail:
 
 <img align="right" src="https://badges.pufler.dev/visits/RuanMiniguite/RuanMiniguite?style=flat-square&color=black&logo=github&a=0">
 
@@ -25,7 +24,7 @@
 
 ---
 
-### Languages and Tools 🛠️
+### Linguagens e Ferramentas :hammer_and_wrench:
 
 <div align="center">
  
