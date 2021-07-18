@@ -46,7 +46,7 @@
 ---
  <div align="center">
   <a href="https://github.com/RuanMiniguite">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=RuanMiniguite&show_icons=true&&title_color=333&text_color=777&icon_color=777&include_all_commits=true&hide_border=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RuanMiniguite&show_icons=true&&title_color=333&text_color=777&icon_color=777&include_all_commits=true&hide_border=true&count_private=true"/>
 </div>
  
 ---
