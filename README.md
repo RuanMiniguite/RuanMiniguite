@@ -1,13 +1,11 @@
-# Olá!
-
-## Eu sou o Ruan, estudante de Sistemas de Informação
+## Olá! Eu sou o Ruan, estudante de Sistemas de Informação
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 - :mortar_board: Estudo no Instituto Federal do Espírito Santo campus Cachoeiro de Itapemirim.
 - :computer: Atualmente, estou me dedicando em aprender tecnologias Frontend e Backend.
-- :chart_with_upwards_trend: Objetivos Futuros: Continuar solucionar problemas de formas criativas.
-- :rocket: Curiosidade sobre mim: Gosto de acompanha lançamentos de foguetes.
+- :chart_with_upwards_trend: Objetivos Futuros: Me tornar um desenvolvedor full stack.
+- :rocket: Curiosidade sobre mim: Gosto de estudar engenharia aeroespacial.
 
 ---
 
