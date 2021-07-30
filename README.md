@@ -11,14 +11,13 @@
 
 ### Contato :e-mail:
 
-<img align="right" src="https://badges.pufler.dev/visits/RuanMiniguite/RuanMiniguite?style=flat-square&color=black&logo=github&a=0">
-
-[<img align="left" alt="bilgehangecici.site" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />][website]
-[<img align="left" alt="bilgehangecici | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725339.svg" />][instagram]
-[<img align="left" alt="bilgehangecici | Facebook" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725350.svg" />][Facebook]
-[<img align="left" alt="bilgehangecici | Spotify" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725342.svg" />][Spotify]
-
-<br />
+<div> 
+  <a href="https://ruanminiguite.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfólio-292929?style=for-the-badge&logo=web&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/ruanminiguite" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.facebook.com/ruan.miniguite.1" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ruan-miniguite-909962169/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://open.spotify.com/user/2157uk2klucpuaf7oid3esrvq?si=85c0dd8690b74187" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
+</div>
 
 ---
 
@@ -48,12 +47,8 @@
 </div>
  
 <div align="center">
- 
+  
  ###### Obrigado por visitar meu perfil! :black_heart:
- 
+  
 </div>
- 
-[website]: https://ruanminiguite.github.io
-[instagram]: https://www.instagram.com/ruanminiguite
-[Facebook]: https://www.facebook.com/ruan.miniguite.1
-[Spotify]: https://open.spotify.com/user/2157uk2klucpuaf7oid3esrvq?si=85c0dd8690b74187
+
