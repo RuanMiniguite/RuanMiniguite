@@ -42,7 +42,7 @@
  ![Android](http://img.shields.io/badge/-Android-181717?style=flat-square&logo=android&logoColor=ffffff)
 
 <details>
-  <summary>language</summary>
+  <summary>Linguagens</summary>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuanMiniguite&layout=compact&langs_count=10&&title_color=333&text_color=777&icon_color=777"/>
 </details>
   
