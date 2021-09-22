@@ -38,13 +38,23 @@
  ![heroku](https://img.shields.io/badge/-heroku-181717?style=flat-square&logo=heroku)
  ![NetBeans](http://img.shields.io/badge/-NetBeans-181717?style=flat-square&logo=ApacheNetBeansIDE&logoColor=ffffff)
  ![Windows](http://img.shields.io/badge/-Windows-181717?style=flat-square&logo=windows&logoColor=ffffff)
+ ![Linux](http://img.shields.io/badge/-Linux-181717?style=flat-square&logo=linux&logoColor=ffffff)
+ ![Android](http://img.shields.io/badge/-Android-181717?style=flat-square&logo=android&logoColor=ffffff)
 
+<details>
+  <summary>Langs</summary>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuanMiniguite&layout=compact&langs_count=10&&title_color=333&text_color=777&icon_color=777"/>
+</details>
+  
+  
 </div>
  
 ---
  <div align="center">
   <a href="https://github.com/RuanMiniguite">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RuanMiniguite&show_icons=true&&title_color=333&text_color=777&icon_color=777&include_all_commits=true&hide_border=true&count_private=true"/>
+
+
 </div>
  
 <div align="center">
