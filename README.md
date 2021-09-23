@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Ruan, estudante de Sistemas de Informação
 
 <!-- <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /> -->
-<img align="right" width=140px height=200px alt="side_sticker" src="https://media.discordapp.net/attachments/890634384573607937/890634407407407194/baixados.gif"/>
+<img align="right" width=140px height=200px alt="side_sticker" src="https://media.discordapp.net/attachments/890634384573607937/890637055720300564/baixados2.gif"/>
 
 
 - :mortar_board: Estudo no Instituto Federal do Espírito Santo campus Cachoeiro de Itapemirim.
