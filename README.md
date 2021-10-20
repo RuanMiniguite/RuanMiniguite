@@ -30,6 +30,7 @@
  
  ![Java](http://img.shields.io/badge/-Java-181717?style=flat-square&logo=java&logoColor=ffffff)
  ![C](http://img.shields.io/badge/-C-181717?style=flat-square&logo=c&logoColor=ffffff)
+ ![Python](http://img.shields.io/badge/-Python-181717?style=flat-square&logo=python&logoColor=ffffff)
  ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=FFFFFF&labelColor=181717&color=181717)
  ![HTML5](https://img.shields.io/badge/-HTML5-181717?style=flat-square&logo=html5&logoColor=ffffff)
  ![CSS3](https://img.shields.io/badge/-CSS3-181717?style=flat-square&logo=css3)
