@@ -7,7 +7,7 @@
 - :mortar_board: Estudo no Instituto Federal do Espírito Santo campus Cachoeiro de Itapemirim.
 - :computer: Atualmente, estou me dedicando em aprender tecnologias Frontend e Backend.
 - :chart_with_upwards_trend: Objetivos Futuros: Me tornar um desenvolvedor full stack.
-- :rocket: Curiosidade sobre mim: Gosto de estudar engenharia aeroespacial.
+- :rocket: Curiosidade sobre mim: Gosto de estudar astronomia e astronáutica.
 
 ---
 
