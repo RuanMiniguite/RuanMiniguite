@@ -41,10 +41,12 @@
  ![VS Code](http://img.shields.io/badge/-VS%20Code-181717?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
  ![Powershell](http://img.shields.io/badge/-Powershell-181717?style=flat-square&logo=powershell&logoColor=ffffff)
  ![heroku](https://img.shields.io/badge/-heroku-181717?style=flat-square&logo=heroku)
+ ![Postman](http://img.shields.io/badge/-Postman-181717?style=flat-square&logo=postman&logoColor=ffffff)
  ![NetBeans](http://img.shields.io/badge/-NetBeans-181717?style=flat-square&logo=ApacheNetBeansIDE&logoColor=ffffff)
  ![Windows](http://img.shields.io/badge/-Windows-181717?style=flat-square&logo=windows&logoColor=ffffff)
  ![Linux](http://img.shields.io/badge/-Linux-181717?style=flat-square&logo=linux&logoColor=ffffff)
  ![Android](http://img.shields.io/badge/-Android-181717?style=flat-square&logo=android&logoColor=ffffff)
+ ![Markdown](http://img.shields.io/badge/-Markdown-181717?style=flat-square&logo=markdown&logoColor=ffffff)
 
 <details>
   <summary>Linguagens</summary>
