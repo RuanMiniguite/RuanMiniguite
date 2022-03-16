@@ -65,9 +65,10 @@
 
 </div>
  
+  
 <div align="center">
   
- ###### Obrigado por visitar meu perfil! :black_heart:
-  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=13&duration=6000&color=5D5D5D&center=true&vCenter=true&width=1000&height=40&lines=Obrigado+por+visitar+meu+perfil!+%F0%9F%96%A4)](https://git.io/typing-svg)
+
 </div>
 
