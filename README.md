@@ -20,6 +20,7 @@
   <a href = "https://twitter.com/ruanminiguite"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://www.facebook.com/ruan.miniguite.1" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href="https://open.spotify.com/user/2157uk2klucpuaf7oid3esrvq?si=85c0dd8690b74187" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
+  <a href="https://www.buymeacoffee.com/ruanminiguite" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" target="_blank"></a>
 </div>
 
 ---
