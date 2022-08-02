@@ -36,6 +36,8 @@
   [![JavaScript][JavaScriptShield]][JavaScriptlink]
   [![HTML5][HTML5Shield]][HTML5link]
   [![CSS3][CSS3Shield]][CSS3link]
+  [![React][ReactShield]][Reactlink]
+  [![Spring][SpringShield]][Springlink]
   [![Figma][FigmaShield]][Figmalink]
   [![PostgreSQL][PostgreSQLShield]][PostgreSQLlink]
   [![Git][GitShield]][Gitlink]
@@ -81,6 +83,8 @@
 [JavaScriptShield]: https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=FFFFFF&color=181717
 [HTML5Shield]: https://img.shields.io/badge/-HTML5-181717?style=flat-square&logo=html5&logoColor=ffffff
 [CSS3Shield]: https://img.shields.io/badge/-CSS3-181717?style=flat-square&logo=css3
+[ReactShield]: https://img.shields.io/badge/-react-181717?style=flat-square&logo=react&logoColor=ffffff
+[SpringShield]: https://img.shields.io/badge/-Spring%20Boot-181717?style=flat-square&logo=spring&logoColor=ffffff
 [FigmaShield]: https://img.shields.io/badge/-figma-181717?style=flat-square&logo=figma&logoColor=ffffff
 [PostgreSQLShield]: https://img.shields.io/badge/-PostgreSQL-181717?style=flat-square&logo=postgresql&logoColor=ffffff
 [GitShield]: https://img.shields.io/badge/-Git-181717?style=flat-square&logo=git&logoColor=%23ffffff
@@ -105,6 +109,8 @@
 [JavaScriptlink]: https://www.javascript.com/
 [HTML5link]: https://html.spec.whatwg.org/multipage/
 [CSS3link]: https://www.w3.org/TR/css3-roadmap/
+[Reactlink]: https://pt-br.reactjs.org/
+[Springlink]: https://spring.io/projects/spring-boot
 [Figmalink]: https://www.figma.com/
 [PostgreSQLlink]: https://www.postgresql.org/
 [Gitlink]: https://git-scm.com/
