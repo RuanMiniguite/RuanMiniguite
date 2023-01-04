@@ -1,10 +1,10 @@
-## Olá! Eu sou o Ruan, estudante de Sistemas de Informação
+## Olá! Eu sou o Ruan, Analistas de Sistemas
 
 <!-- <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /> -->
 <img align="right"  width=145px height=210px alt="side_sticker" src="/assets/Rick.gif"/>
 
 
-- :mortar_board: Estudo no Instituto Federal do Espírito Santo campus Cachoeiro de Itapemirim.
+- :mortar_board: Sou formado em bacharel em Sistemas de Informação pelo IFES.
 - :computer: Atualmente, estou me dedicando em aprender tecnologias Frontend e Backend.
 - :chart_with_upwards_trend: Objetivos Futuros: Me tornar um desenvolvedor full stack.
 - :rocket: Curiosidade sobre mim: Gosto de estudar astronomia e astronáutica.
@@ -29,10 +29,12 @@
 
 <div align="center">
  
-  [![Java][JavaShield]][Javalink]
   [![C][CShield]][Clink]
   [![C++][CppShield]][Cpplink]
+  [![Java][JavaShield]][Javalink]
   [![Python][PythonShield]][Pythonlink]
+  [![Dart][DartShield]][Dartlink]
+  [![Flutter][FlutterShield]][Flutterlink]
   [![JavaScript][JavaScriptShield]][JavaScriptlink]
   [![HTML5][HTML5Shield]][HTML5link]
   [![CSS3][CSS3Shield]][CSS3link]
@@ -40,6 +42,7 @@
   [![Spring][SpringShield]][Springlink]
   [![Figma][FigmaShield]][Figmalink]
   [![PostgreSQL][PostgreSQLShield]][PostgreSQLlink]
+  [![FireBase][FireBaseShield]][Firebaselink]
   [![Git][GitShield]][Gitlink]
   [![GitHub][GitHubShield]][GitHublink]
   [![VSCode][VSCodeShield]][VSCodelink]
@@ -99,6 +102,10 @@
 [AndroidShield]: http://img.shields.io/badge/-Android-181717?style=flat-square&logo=android&logoColor=ffffff
 [ArduinoShield]: https://img.shields.io/badge/Arduino-181717?style=flat-square&logo=Arduino&logoColor=white
 [MarkdownShield]:http://img.shields.io/badge/-Markdown-181717?style=flat-square&logo=markdown&logoColor=ffffff
+[DartShield]: http://img.shields.io/badge/-dart-181717?style=flat-square&logo=markdown&logoColor=ffffff
+[FlutterShield]: http://img.shields.io/badge/-flutter-181717?style=flat-square&logo=markdown&logoColor=ffffff
+[FireBaseShield]: http://img.shields.io/badge/-firebase-181717?style=flat-square&logo=markdown&logoColor=ffffff
+
 
 
 <!-- Links para sites -->
@@ -125,3 +132,7 @@
 [Androidlink]: https://www.android.com/
 [Arduinolink]: https://www.markdownguide.org/
 [Markdownlink]: https://www.markdownguide.org/
+[Dartlink]: https://dart.dev/
+[Flutterlink]: https://flutter.dev/
+[FireBaselink]: https://firebase.google.com/
+
