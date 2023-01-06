@@ -79,7 +79,7 @@
 </div>
 
 <!-- Links Shields -->
-[JavaShield]: http://img.shields.io/badge/-Java-181717?style=flat-square&logo=java&logoColor=ffffff
+[JavaShield]: http://img.shields.io/badge/-Java-181717?style=flat-square&logo=oracle&logoColor=ffffff
 [CShield]: http://img.shields.io/badge/-C-181717?style=flat-square&logo=c&logoColor=ffffff
 [CppShield]: http://img.shields.io/badge/-c++-181717?style=flat-square&logo=c%2B%2B&logoColor=ffffff
 [PythonShield]: http://img.shields.io/badge/-Python-181717?style=flat-square&logo=python&logoColor=ffffff
@@ -102,9 +102,9 @@
 [AndroidShield]: http://img.shields.io/badge/-Android-181717?style=flat-square&logo=android&logoColor=ffffff
 [ArduinoShield]: https://img.shields.io/badge/Arduino-181717?style=flat-square&logo=Arduino&logoColor=white
 [MarkdownShield]:http://img.shields.io/badge/-Markdown-181717?style=flat-square&logo=markdown&logoColor=ffffff
-[DartShield]: http://img.shields.io/badge/-dart-181717?style=flat-square&logo=markdown&logoColor=ffffff
-[FlutterShield]: http://img.shields.io/badge/-flutter-181717?style=flat-square&logo=markdown&logoColor=ffffff
-[FireBaseShield]: http://img.shields.io/badge/-firebase-181717?style=flat-square&logo=markdown&logoColor=ffffff
+[DartShield]: http://img.shields.io/badge/-Dart-181717?style=flat-square&logo=dart&logoColor=ffffff
+[FlutterShield]: http://img.shields.io/badge/-Flutter-181717?style=flat-square&logo=flutter&logoColor=ffffff
+[FireBaseShield]: http://img.shields.io/badge/-Firebase-181717?style=flat-square&logo=firebase&logoColor=ffffff
 
 
 
