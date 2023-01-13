@@ -57,17 +57,17 @@
   [![Markdown][MarkdownShield]][Markdownlink]
 
 
-  <details>
+<!--   <details>
     <summary>Linguagens</summary>
     <br>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuanMiniguite&layout=compact&langs_count=10&&title_color=333&text_color=777&icon_color=777"/>
-  </details>
+  </details> -->
 </div>
  
 ---
  <div align="center">
   <a href="https://github.com/RuanMiniguite">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RuanMiniguite&show_icons=true&&title_color=333&text_color=777&icon_color=777&include_all_commits=true&hide_border=true&count_private=true"/>
+<!--   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RuanMiniguite&show_icons=true&&title_color=333&text_color=777&icon_color=777&include_all_commits=true&hide_border=true&count_private=true"/> -->
 
   <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=RuanMiniguite&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D&border=DD272700&ring=606060&sideLabels=606060&background=FFFFFF&stroke=606060&fire=DB1717&currStreakNum=606060&sideNums=606060&currStreakLabel=606060"/>
 
