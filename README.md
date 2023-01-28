@@ -1,29 +1,31 @@
 ## Olá! Eu sou o Ruan, Analistas de Sistemas
 
-<!-- <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /> -->
 <img align="right"  width=145px height=210px alt="side_sticker" src="/assets/Rick.gif"/>
-
 
 - :mortar_board: Sou graduado em Sistemas de Informação pelo IFES campus Cachoeiro.
 - :computer: Atualmente, estou me dedicando em aprender tecnologias Frontend e Backend.
 - :chart_with_upwards_trend: Objetivos Futuros: Me tornar um desenvolvedor full stack.
 - :rocket: Curiosidade sobre mim: Gosto de estudar astronomia e astronáutica.
 
+
 ---
+
 
 ### Contato :e-mail:
 
 <div> 
-  <a href="https://ruanminiguite.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfólio-292929?style=for-the-badge&logo=Revolut&logoColor=white" target="_blank"></a>
+  <a href="https://ruanminiguite.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfólio-292929?style=for-the-badge&logo=Revolt.chat&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ruan-miniguite-909962169/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/ruanminiguite" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "https://twitter.com/ruanminiguite"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href="https://www.facebook.com/ruan.miniguite.1" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-  <a href="https://open.spotify.com/user/2157uk2klucpuaf7oid3esrvq?si=85c0dd8690b74187" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
   <a href="https://www.buymeacoffee.com/ruanminiguite" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" target="_blank"></a>
+  <!-- <a href="https://www.facebook.com/ruan.miniguite.1" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> -->
+  <!-- <a href="https://open.spotify.com/user/2157uk2klucpuaf7oid3esrvq?si=85c0dd8690b74187" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> -->
 </div>
 
+
 ---
+
 
 ### Linguagens e Ferramentas :hammer_and_wrench:
 
@@ -60,21 +62,24 @@
   <details>
     <summary>Linguagens</summary>
     <br>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuanMiniguite&layout=compact&langs_count=10&&title_color=333&text_color=777&icon_color=777"/>
+    <img height="150em" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuanMiniguite&layout=compact&langs_count=10&&title_color=333&text_color=777&icon_color=777"/>
   </details>
 </div>
  
+ 
 ---
- <div align="center">
+
+
+<div align="center">
   <a href="https://github.com/RuanMiniguite">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RuanMiniguite&show_icons=true&&title_color=333&text_color=777&icon_color=777&include_all_commits=true&hide_border=true&count_private=true"/>
 
   <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=RuanMiniguite&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D&border=DD272700&ring=606060&sideLabels=606060&background=FFFFFF&stroke=606060&fire=DB1717&currStreakNum=606060&sideNums=606060&currStreakLabel=606060"/>
 
+  <br>
 
-<br>
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=14&duration=6000&color=5D5D5D&center=true&vCenter=true&width=350&height=50&lines=Obrigado+por+visitar+meu+perfil!+%F0%9F%96%A4)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=14&duration=6000&color=5D5D5D&center=true&vCenter=true&width=350&height=50&lines=Obrigado+por+visitar+meu+perfil!+%F0%9F%96%A4)](https://git.io/typing-svg)
 
 </div>
 
