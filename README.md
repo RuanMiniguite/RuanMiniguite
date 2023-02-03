@@ -84,7 +84,7 @@
 </div>
 
 <!-- Links Shields -->
-[JavaShield]: http://img.shields.io/badge/-Java-181717?style=flat-square&logo=oracle&logoColor=ffffff
+[JavaShield]: http://img.shields.io/badge/-Java-181717?style=flat-square&logo=CoffeeScript&logoColor=ffffff
 [CShield]: http://img.shields.io/badge/-C-181717?style=flat-square&logo=c&logoColor=ffffff
 [CppShield]: http://img.shields.io/badge/-c++-181717?style=flat-square&logo=c%2B%2B&logoColor=ffffff
 [PythonShield]: http://img.shields.io/badge/-Python-181717?style=flat-square&logo=python&logoColor=ffffff
