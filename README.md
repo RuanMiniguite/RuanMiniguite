@@ -1,6 +1,7 @@
 ## Olá! Eu sou o Ruan, Analistas de Sistemas
 
-<img align="right"  width=145px height=210px alt="side_sticker" src="/assets/Rick.gif"/>
+<!-- <img align="right"  width=145px height=210px alt="side_sticker" src="/assets/Rick.gif"/> -->
+<img align="right" height=220px alt="side_sticker" src="/assets/Endurance.gif"/>
 
 - :mortar_board: Sou graduado em Sistemas de Informação pelo IFES campus Cachoeiro.
 - :computer: Atualmente, estou me dedicando em aprender tecnologias Frontend e Backend.
