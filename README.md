@@ -3,10 +3,9 @@
 <img align="right"  width=145px height=210px alt="side_sticker" src="/assets/Rick.gif"/>
 
 - :mortar_board: Sou graduado em Sistemas de Informação pelo IFES campus Cachoeiro.
-- :computer: Atualmente, estou me dedicando em aprender tecnologias Frontend e Backend.
-- :chart_with_upwards_trend: Objetivos Futuros: Me tornar um desenvolvedor full stack.
+- :computer: Atualmente, estou me dedicando em desevolver o [Space Learn](https://github.com/RuanMiniguite/Space-Learn-About)
+- :chart_with_upwards_trend: Objetivos Futuros: Conseguir desenvolver uma carreira sólida no mercado.
 - :rocket: Curiosidade sobre mim: Gosto de estudar astronomia e astronáutica.
-
 
 ---
 
