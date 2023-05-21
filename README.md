@@ -1,4 +1,4 @@
-## Olá! Eu sou o Ruan, Analistas de Sistemas
+## Olá! Eu sou o Ruan, Analista de Sistemas
 
 <img align="right"  width=145px height=210px alt="side_sticker" src="/assets/Rick.gif"/>
 
